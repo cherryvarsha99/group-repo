@@ -8,7 +8,7 @@
 
 - playing video games
 
-
+ [Github Link](https://github.com/Hughesterrence76)
 
 
 
@@ -20,6 +20,8 @@
 
 - playing video games
 
+[Github Link](https://github.com/zachariahwatson)
+
 
 
 
@@ -30,3 +32,5 @@
 - watching  animated movies
 
 - cooking
+
+[Github Link](https://github.com/cherryvarsha99)

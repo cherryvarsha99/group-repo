@@ -2,7 +2,9 @@
 
 ## Terrence Hughes
 
-
+- Produce music
+- watching anime
+- playing video games
 
 
 

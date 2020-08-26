@@ -1,4 +1,4 @@
-# group-repo
+ # group-repo
 
 ## Terrence Hughes
 
@@ -16,3 +16,7 @@
 
 
 ## Varsha Vellanki
+
+- Like to read
+- watching  animated movies
+- cooking

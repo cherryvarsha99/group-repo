@@ -14,7 +14,11 @@
 
 ## Zach Watson
 
+- playing drums
 
+- working out
+
+- playing video games
 
 
 

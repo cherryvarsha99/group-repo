@@ -1,6 +1,6 @@
 # group-repo
 
-##Terrence Hughes
+## Terrence Hughes
 
 
 
@@ -8,11 +8,11 @@
 
 
 
-##Zach Watson
+## Zach Watson
 
 
 
 
 
 
-##Varsha Vellanki
+## Varsha Vellanki
